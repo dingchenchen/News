@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">天外天新闻</string>
+    <string name="news_type1">天大要闻</string>
+    <string name="news_type2">校园公告</string>
+    <string name="news_type3">社团风采</string>
+    <string name="news_type4">院系动态</string>
+    <string name="news_type5">视点观察</string>
+    <string name="visitcount">人浏览</string>
+    <string name="comments">人评论</string>
+    <string name="news_come">信息来源：</string>
+    <string name="sheying">摄影：</string>
+    <string name="gonggao">供稿：</string>
+    <string name="shengao">审稿：</string>
+</resources>
